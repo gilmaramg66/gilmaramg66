@@ -1,16 +1,21 @@
-## Hi there 👋
+# My Personal Site
+This is my personal site. Here you can find
+information about me, my projects and my interests
 
-<!--
-**gilmaramg66/gilmaramg66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Content
+* [Personal Information](#personal-information)
+* [Projects](#projects)
+* [Interests](#interests)
+## Personal information
+* Name: Gilmar Munoz
+* Occupation: Graphic Designer and Computer Engineering Student
+* Place of residency: Guayaquil, Ecuador
+* Web page: -
+## Proyectos
+* [Lista de tus proyectos]
+## Intereses
+* UX/UI
+* Direccion de Proyectos
+* Programacion en general
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
